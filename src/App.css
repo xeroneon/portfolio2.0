@@ -1,4 +1,57 @@
-.App {
+.hero {
+  /* background: #1de9b6; */
+  background: linear-gradient(#1de9b6, #64ffda);
+  min-height: 50vh;
+  text-align: center;
+  color: #FFF;
+  border-radius: 0px 0px 15px 15px;
+}
+
+.hero img {
+  padding-top: 5vh;
+  height: 30vh;
+}
+
+.hero h1 {
+  padding-bottom: 20px;
+}
+
+nav {
+  background: #1de9b6
+}
+/* 
+.card {
+  width: 30vw;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -29,4 +82,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
