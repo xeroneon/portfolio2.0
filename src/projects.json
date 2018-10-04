@@ -2,42 +2,42 @@
     {
         "title": "HIKER",
         "summary": "This application lets users create an account and when they go hiking they can check into their trail and if they dont check out at the specified time the applicaiton will send a text to all of their emergency contacts" ,
-        "image": "/images/hiker.png",
+        "image": "/images/hiker.PNG",
         "link": "https://hiker-ua.herokuapp.com/",
         "repo": "https://github.com/xeroneon/Hiker/"
     },
     {
         "title": "No Mans Sky Trivia",
         "summary": "A trivia game using on click events, timers and more to dynamically change the webpage." ,
-        "image": "/images/nmstrivia.png",
+        "image": "/images/nmstrivia.PNG",
         "link": "https://xeroneon.github.io/TriviaGame/",
         "repo": "https://github.com/xeroneon/TriviaGame/"
     },
     {
         "title": "League of Clicks",
         "summary": "This application showcases what I learned in React the first week I learned it" ,
-        "image": "/images/clicky.png",
+        "image": "/images/clicky.PNG",
         "link": "https://clicky-ua.herokuapp.com/",
         "repo": "https://github.com/xeroneon/clicky/"
     },
     {
         "title": "Map-up",
         "summary": "This was the first project I did with a group in the bootcamp I attended" ,
-        "image": "/images/map-up.png",
+        "image": "/images/map-up.PNG",
         "link": "https://xeroneon.github.io/Project-1/",
         "repo": "https://github.com/xeroneon/Project-1/"
     },
     {
         "title": "Crystal Collector",
         "summary": "A simple Javascript/JQuery game using click events and random numbers." ,
-        "image": "/images/crystalcollector.png",
+        "image": "/images/crystalcollector.PNG",
         "link": "https://xeroneon.github.io/unit-4-game/",
         "repo": "https://github.com/xeroneon/unit-4-game/"
     },
     {
         "title": "myDeck",
         "summary": "This is an application that uses Sequelize, NodeJS, Express, Passport, and the MTG SDK to let users create and manage their collection of magic cards" ,
-        "image": "/images/project-2.png",
+        "image": "/images/project-2.PNG",
         "link": "https://safe-coast-77807.herokuapp.com/",
         "repo": "https://github.com/xeroneon/project-2/"
     }

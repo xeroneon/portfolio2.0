@@ -23,4 +23,4 @@ const Tech = (props) => {
     )
 }
 
-export default Tech;
+export default Tech; 
