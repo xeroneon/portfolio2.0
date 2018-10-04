@@ -1,9 +1,13 @@
 import React from "react";
 
+const today = new Date()
+
 const Footer = (props) => {
     return (
         <footer>
-            Footer
+            <p>
+                Jirasektek&#169; {today.getFullYear()}
+            </p>
         </footer>
     )
 }

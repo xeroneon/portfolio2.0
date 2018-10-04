@@ -1,10 +1,24 @@
 [
     {
+        "title": "HIKER",
+        "summary": "This application lets users create an account and when they go hiking they can check into their trail and if they dont check out at the specified time the applicaiton will send a text to all of their emergency contacts" ,
+        "image": "/images/hiker.png",
+        "link": "https://hiker-ua.herokuapp.com/",
+        "repo": "https://github.com/xeroneon/Hiker/"
+    },
+    {
         "title": "No Mans Sky Trivia",
         "summary": "A trivia game using on click events, timers and more to dynamically change the webpage." ,
         "image": "/images/nmstrivia.png",
         "link": "https://xeroneon.github.io/TriviaGame/",
         "repo": "https://github.com/xeroneon/TriviaGame/"
+    },
+    {
+        "title": "League of Clicks",
+        "summary": "This application showcases what I learned in React the first week I learned it" ,
+        "image": "/images/clicky.png",
+        "link": "https://clicky-ua.herokuapp.com/",
+        "repo": "https://github.com/xeroneon/clicky/"
     },
     {
         "title": "Map-up",
@@ -22,7 +36,7 @@
     },
     {
         "title": "myDeck",
-        "summary": "This is an application that uses sequelize node express passport and the mtg sdk to let users be able to create and manage their collection of magic cards" ,
+        "summary": "This is an application that uses Sequelize, NodeJS, Express, Passport, and the MTG SDK to let users create and manage their collection of magic cards" ,
         "image": "/images/project-2.png",
         "link": "https://safe-coast-77807.herokuapp.com/",
         "repo": "https://github.com/xeroneon/project-2/"

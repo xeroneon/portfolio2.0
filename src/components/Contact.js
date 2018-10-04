@@ -7,7 +7,7 @@ const Contact = (props) => {
         <div className="container contact">
             <div class="divider"></div>
             <div className="row">
-                <h2 className="teal-text text-accent-3">Contact</h2>
+                <h2>Contact</h2>
                 <div class="chip ">
                     <img src="/images/gmail.png" alt="Contact Person" />
                     jiraseandrew@gmail.com

@@ -1,6 +1,6 @@
 .hero {
   /* background: #1de9b6; */
-  background: linear-gradient(#1de9b6, #64ffda);
+  background: linear-gradient(#263238, #546e7a);
   min-height: 50vh;
   text-align: center;
   color: #FFF;
@@ -16,8 +16,24 @@
   padding-bottom: 20px;
 }
 
+h2 {
+  color: #00bfa5;
+}
+
 nav {
   background: #1de9b6
+}
+
+footer {
+  text-align: center;
+  background: linear-gradient(#546e7a, #263238);
+  height: 8vh;
+  color: #FFF;
+  margin-bottom: 0;
+}
+
+body {
+  height: 100%;
 }
 /* 
 .card {
