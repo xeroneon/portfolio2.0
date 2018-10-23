@@ -1,9 +1,16 @@
 [
     {
+        "title": "Brightstar Bucks",
+        "summary": "I created this application for my moms company for her to give her employees Brightstar Bucks when they complete a goal and let them redeem their Bucks for Brightstar merch" ,
+        "image": "/images/brightstar-bucks.PNG",
+        "link": "https://brightstarbucks.herokuapp.com/",
+        "repo": "https://github.com/xeroneon/brightstar/"
+    },
+    {
         "title": "HIKER",
         "summary": "This application lets users create an account and when they go hiking they can check into their trail and if they dont check out at the specified time the applicaiton will send a text to all of their emergency contacts" ,
         "image": "/images/hiker.PNG",
-        "link": "https://hiker-ua.herokuapp.com/",
+        "link": "https://hiker-az.herokuapp.com/",
         "repo": "https://github.com/xeroneon/Hiker/"
     },
     {
