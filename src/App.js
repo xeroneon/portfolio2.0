@@ -18,10 +18,10 @@ class App extends Component {
 
         <main>
           <Hero />
-          <About />
-          <Tech />
           <Portfolio />
-          <Contact />
+          <Tech />
+          <About />
+          {/* <Contact /> */}
         </main>
 
         <Footer />

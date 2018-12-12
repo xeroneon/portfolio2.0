@@ -5,9 +5,7 @@ import Chip from "./Chip";
 const Contact = (props) => {
     return (
         <div className="container contact">
-            <div class="divider"></div>
             <div className="row">
-                <h2>Contact</h2>
                 <div class="chip ">
                     <img src="/images/gmail.png" alt="Contact Person" />
                     jiraseandrew@gmail.com

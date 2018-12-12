@@ -1,14 +1,14 @@
 [
     {
         "title": "Brightstar Bucks",
-        "summary": "I created this application for my moms company for her to give her employees Brightstar Bucks when they complete a goal and let them redeem their Bucks for Brightstar merch" ,
+        "summary": "Managers can create goals for employees and upon completion they recieve credits to purchase company merch." ,
         "image": "/images/brightstar-bucks.PNG",
         "link": "https://brightstarbucks.herokuapp.com/",
         "repo": "https://github.com/xeroneon/brightstar/"
     },
     {
         "title": "HIKER",
-        "summary": "This application lets users create an account and when they go hiking they can check into their trail and if they dont check out at the specified time the applicaiton will send a text to all of their emergency contacts" ,
+        "summary": "When users go hiking they can check in and if they dont check out in time their emergency contacts are notified by text." ,
         "image": "/images/hiker.PNG",
         "link": "https://hiker-az.herokuapp.com/",
         "repo": "https://github.com/xeroneon/Hiker/"
@@ -22,14 +22,14 @@
     },
     {
         "title": "League of Clicks",
-        "summary": "This application showcases what I learned in React the first week I learned it" ,
+        "summary": "This application showcases what I learned in React the first week I learned it." ,
         "image": "/images/clicky.PNG",
         "link": "https://clicky-ua.herokuapp.com/",
         "repo": "https://github.com/xeroneon/clicky/"
     },
     {
         "title": "Map-up",
-        "summary": "This was the first project I did with a group in the bootcamp I attended" ,
+        "summary": "This was the first project I did with a group in the bootcamp I attended." ,
         "image": "/images/map-up.PNG",
         "link": "https://xeroneon.github.io/Project-1/",
         "repo": "https://github.com/xeroneon/Project-1/"
@@ -43,7 +43,7 @@
     },
     {
         "title": "myDeck",
-        "summary": "This is an application that uses Sequelize, NodeJS, Express, Passport, and the MTG SDK to let users create and manage their collection of magic cards" ,
+        "summary": "Users can create and manage Magic: The Gathering decks." ,
         "image": "/images/project-2.PNG",
         "link": "https://safe-coast-77807.herokuapp.com/",
         "repo": "https://github.com/xeroneon/project-2/"

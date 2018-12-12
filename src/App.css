@@ -1,20 +1,28 @@
 .hero {
   /* background: #1de9b6; */
-  background: linear-gradient(#263238, #546e7a);
-  min-height: 50vh;
+  background: #303030;
+  min-height: 30vh;
   text-align: center;
   color: #FFF;
-  border-radius: 0px 0px 15px 15px;
+  /* border-radius: 0px 0px 15px 15px; */
+  margin-bottom: -100px;
 }
 
 .hero img {
   padding-top: 5vh;
-  height: 30vh;
+  height: 15vh;
 }
 
 .hero h1 {
   padding-bottom: 20px;
 }
+
+/* #portfolio {
+  margin-top: -100px !important;
+  padding-top: -100px !important;
+  top: -10vh;
+  position: absolute !important;
+} */
 
 h2 {
   color: #00bfa5;
@@ -26,8 +34,8 @@ nav {
 
 footer {
   text-align: center;
-  background: linear-gradient(#546e7a, #263238);
-  height: 8vh;
+  background: #303030;
+  height: 15vh;
   color: #FFF;
   margin-bottom: 0;
 }
@@ -35,10 +43,6 @@ footer {
 body {
   height: 100%;
 }
-/* 
-.card {
-  width: 30vw;
-} */
 
 
 
