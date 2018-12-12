@@ -9,8 +9,10 @@ const About = (props) => {
                     <p className="grey-text text-darken-3">
                         A little about myself,<br/><br/>
                         My name is Andrew Jirasek, I am a Full Stack Web Developer who attended UA Coding Bootcamp.
-                        I have always been passionate about technology and I love to always improve upon the knowledge I already have.
-                        Below you can see what I've been working on.
+                        Growing up I've always had an interest in technology of any kind. I was pulled to web development because 
+                        it was the perfect entry into programming and since then I've been working hard to develop my skills as much as possible.
+                        I love front end design because design can have a huge impact on usability and how people percieve a product but I also have 
+                        come to love the backend because its very satisfying to get everything working perfectly by thinking about all use cases.
                 </p>
 
                 </div>
