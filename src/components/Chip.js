@@ -4,7 +4,7 @@ const Chip = (props) => {
     return (
 
         <a href={props.link}  target="_blank" rel="noopener noreferrer">
-            <div class="chip ">
+            <div className="chip ">
                 <img src={props.image} alt="Contact Person" />
                 {props.name}
             </div>

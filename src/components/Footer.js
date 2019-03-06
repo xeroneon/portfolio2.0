@@ -6,10 +6,10 @@ const today = new Date()
 const Footer = (props) => {
     return (
         <footer>
-            <p>
+            {/* <p> */}
                 Jirasektek&#169; {today.getFullYear()}
                 <Contact />
-            </p>
+            {/* </p> */}
         </footer>
     )
 }

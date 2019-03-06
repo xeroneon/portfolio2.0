@@ -12,7 +12,7 @@ const Portfolio = (props) => {
                     <span className="card-title">{props.title}</span>
                     <p>{props.summary}</p>
                 </div>
-                <div class="card-action">
+                <div className="card-action">
                     <a className="light-blue-text text-lighten-2" href={props.link} target="_blank" rel="noopener noreferrer">Live Demo</a>
                     <a className="light-blue-text text-lighten-2" href={props.repo} target="_blank" rel="noopener noreferrer">Repo</a>
                 </div>

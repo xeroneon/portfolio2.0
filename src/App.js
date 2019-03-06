@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Nav from "./components/Nav";
+// import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Portfolio from "./components/Portfolio";
-import Contact from "./components/Contact";
+// import Contact from "./components/Contact";
 import About from "./components/About";
 import Tech from "./components/Tech";
 
