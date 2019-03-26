@@ -13,8 +13,8 @@ const Portfolio = (props) => {
                     <p>{props.summary}</p>
                 </div>
                 <div className="card-action">
-                    <a className="light-blue-text text-lighten-2" href={props.link} target="_blank" rel="noopener noreferrer">Live Demo</a>
-                    <a className="light-blue-text text-lighten-2" href={props.repo} target="_blank" rel="noopener noreferrer">Repo</a>
+                    <a className="light-blue-text text-lighten-2" href={props.link} target="_blank" rel="noopener noreferrer">Live Site</a>
+                    { props.repo ? <a className="light-blue-text text-lighten-2" href={props.repo} target="_blank" rel="noopener noreferrer">Repo</a> : null }
                 </div>
             </div>
         </div>

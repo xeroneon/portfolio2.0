@@ -1,5 +1,18 @@
 [
     {
+        "title": "Brown Sales INC",
+        "summary": "WordPress was a requirement for this site, so I learned WordPress and made Brown Sales a site for their multi-family flooring business" ,
+        "image": "/images/brownsalesaz.PNG",
+        "link": "https://brownsalesaz.com/"
+    },
+    {
+        "title": "Brown Sales Flooring",
+        "summary": "I created this site for Brown Sales as a portal to all of their other sites" ,
+        "image": "/images/brownsalesflooring.PNG",
+        "link": "https://brownsalesflooring.com/",
+        "repo": "https://github.com/xeroneon/brownsales/"
+    },
+    {
         "title": "Brightstar Bucks",
         "summary": "Managers can create goals for employees and upon completion they recieve credits to purchase company merch." ,
         "image": "/images/brightstar-bucks.PNG",
