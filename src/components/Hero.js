@@ -3,7 +3,7 @@ import React from "react";
 const Hero = (props) => {
     return (
         <div className="hero">
-            <img src="/images/logo.png" alt="logo"/>
+            <img src="/images/newlogo.png" alt="logo"/>
         </div>
     )
 }
